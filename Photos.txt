@@ -1,0 +1,4 @@
+1;picnic;jpg;family;2025-05-09 17:23:33;true
+2;sky;jpg;weather;2025-05-08 21:03:15;false
+3;snow;jpg;weather;12-11-2005;false
+4;vacation;jpg;family;2025-05-08 21:04:17;false
